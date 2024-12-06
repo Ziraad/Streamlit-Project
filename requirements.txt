@@ -1,4 +1,3 @@
-pip
 altair==5.5.0
 attrs==24.2.0
 blinker==1.9.0
@@ -36,7 +35,7 @@ Pympler==1.1
 pyparsing==3.2.0
 python-dateutil==2.9.0.post0
 pytz==2024.2
-pywin32==308
+pywin32
 referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
